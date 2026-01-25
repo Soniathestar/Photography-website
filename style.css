@@ -5,9 +5,10 @@
     padding: 12px 0;
 }
 
-#HeadingTwo{
-color: aqua;
-}
 #SectionOne{
     background-color: #f2b5c4;
+}
+
+.HeadingTwo{
+    color: aqua;
 }
