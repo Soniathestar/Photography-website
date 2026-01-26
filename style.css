@@ -12,3 +12,8 @@
 .HeadingTwo{
     color: #f2b5c4;
 }
+
+.HeadingThree{
+    border: 8px solid black;
+    color: salmon;
+}
