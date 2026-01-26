@@ -17,8 +17,8 @@
     border: 8px solid black;
     color: salmon;
 }
-.Sidebar{
-    width: 30%;
+#Sidebar{
+    width: 50%;
     float: right;
     background-color: aqua;
 }
