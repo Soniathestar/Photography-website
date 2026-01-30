@@ -1,6 +1,9 @@
 # Photography-website
 Every moments tells a story and through my lens, those stories come alive!
 
+## Live Site
+https://soniathestar.github.io/Photography-website/
+
 ## Project Description
 Sonia's Gallery is a personal photography website dsigned to showcase memorable moments captured through the lens. The website hightlights the beauty of everyday scenes,tells stories behind selected photographs and introduces the photographer Sonia. It also includes a sign-up form to allow visitors to connect and engage with the site
 This project focuses on visual storytelling and a simple user experience while practicing foudational web development skills.
